@@ -14,3 +14,7 @@ To run the Python scripts, you will need to install python and the 'Requests' mo
 2. Use the shortcut 'Windows-R' and type in 'cmd' then press enter to open the command prompt
 3. type in the command '$ pipenv install requests' into the command prompt and wait for the 'Request' module to install
 4. now you should be able to run the python files as you have all the dependencies needed for our python scripts
+
+**what our team used to build our solution**
+1.Python
+2.IBM Visual Recognition
