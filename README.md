@@ -16,6 +16,5 @@ To run the Python scripts, you will need to install python and the 'Requests' mo
 4. now you should be able to run the python files as you have all the dependencies needed for our python scripts
 
 **what our team used to build our solution**
-
 1.Python
 2.IBM Visual Recognition
