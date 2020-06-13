@@ -69,7 +69,7 @@ for month in monthlst:
         humidity='Lower than average'
     print('{:<15}{:32}{:34}{:30}'.format(month,humidity,temp,risk))
 print()
-print('Maintenance,updating and sources of dataset(s) used in program are lsited below:')
+print('Maintenance,updating and sources of dataset(s) used in program are listed below:')
 print('1. (Surface Air Temperature) dataset used in this program is from https://data.gov.sg/dataset/surface-air-temperature-monthly-mean and is updated and maintained monthly by the Singapore Government')
 print('2. (Relative Humidity) dataset used in this program is from https://data.gov.sg/dataset/relative-humidity-monthly-mean and is updated and maintained monthly by the Singapore Government')
 
