@@ -18,5 +18,4 @@ To run the Python scripts, you will need to install python and the 'Requests' mo
 **what our team used to build our solution**
 
 1.Python
-
 2.IBM Visual Recognition
