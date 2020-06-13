@@ -1,0 +1,42 @@
+// Copyright www.srcmake.com 2018.
+// Require our libraries and our config file.
+var watson = require('watson-developer-cloud');
+var fs = require('fs');
+var config = require('./config');
+
+// Start the visualizer service by authenticating with our API key.
+var visual_recognition = watson.visual_recognition(
+        {
+        api_key: config.apikey,
+        version: 'v3',
+        version_date: '2016-05-20'
+        });
+
+// Only return classes that are 49% or above likely. 
+let parameters = 
+        {
+        threshold: 0.49
+        };
+
+// Our test image.
+var params = 
+        {
+        images_file: fs.createReadStream('./Drone_Test'),
+        parameters: parameters
+        };
+
+
+// Call the classifier. 
+visual_recognition.classify(params, function(error, response) 
+        {
+        // If there's no error, then Watson's response is...
+        if (!error)
+            {
+            var stringresponse = JSON.stringify(response, null, 2);
+            console.log(stringresponse);
+            }
+        else
+            {
+            console.log("Error: " + error);
+            }
+        });
