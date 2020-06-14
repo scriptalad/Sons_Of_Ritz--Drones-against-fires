@@ -11,7 +11,7 @@ With the rising tensions around global warming and its effect on the environment
 
 https://1drv.ms/p/s!AoLUQk5IRXiSiFysKZbP7cseoZsJ?e=BEqAW4
 
-# pitch video says 2:01 minutes in thumbnail but actually is only 2:00 minutes when you watch it 
+pitch video says 2:01 minutes in thumbnail but actually is only 2:00 minutes when you watch it 
 
 https://www.youtube.com/watch?v=bpyzPLfdn3Q&feature=youtu.be
 
