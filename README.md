@@ -15,6 +15,15 @@ To run the Python scripts, you will need to install python and the 'Requests' mo
 3. type in the command 'pip install requests' into the command prompt and wait for the 'Request' module to install
 4. right click the python file and select 'edit with idle' then press F5 to save and run the program
 
+To run the IBM Visual Recognition,you will need to go to https://dataplatform.cloud.ibm.com/home?context=wdp
+1. Create a new project by clicking "New project*
+2. "Create Project from existing files
+3. Compile the files from Visual Recognition (assets, assettypes and project.json) into a zip file and drag and drop them into the page
+4. Name the project and project description. Once done, hit create !
+5. Go to settings and look for "Associated Service"
+6. Click add service --> Watson -- Visual Recognition
+7. Hit Test and now you can drag and drog any image for the trained AI to detect if there are any of the 3 labels (Fires, Smoke or Humans) in the picture.
+
 **what our team used to build our solution**
 
 1. Python
