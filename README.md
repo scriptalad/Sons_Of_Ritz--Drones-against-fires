@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=bpyzPLfdn3Q&feature=youtu.be
 
 https://photos.app.goo.gl/vwm6AguPoAmRy9LG6
 
-**detailed solution**
+**Detailed solution**
 
 https://docs.google.com/document/d/1XJRgSJeuc-ZwSZ1oMwl2mwZv7-DtSCtfE-PS7lufmJU/edit?ts=5ee4e98b
 
