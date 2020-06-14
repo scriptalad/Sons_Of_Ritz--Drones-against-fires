@@ -30,7 +30,7 @@ To run the IBM Visual Recognition,you will need to go to https://dataplatform.cl
 2. IBM Visual Recognition
 3. Waze Navigation software
 
-**Architecture of proposed solution
+**Architecture of proposed solution**
 
 https://photos.app.goo.gl/vwm6AguPoAmRy9LG6
 	
