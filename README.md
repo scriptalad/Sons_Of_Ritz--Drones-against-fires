@@ -7,6 +7,10 @@ We are a group of year 1 students from multiple Schools, 2 from TP, 2 from NP an
 
 With the rising tensions around global warming and its effect on the environment due to the recent wild/forest fires in australia, our team has decided to focus on the 'Preventing The Spread'. Specifically, we are tackling the issue of wild/forest fires that many believe will never hit Singapore. To do this, we will be utilising government data sets in python scripts to predict the months of the year that are more prone to fires and also configure drones with IBM visual recognition which patrol Singapores forest to detect fires as well as humans which are within the danger zone to assist the SCDF in their operations and help them carry them out more efficiently.
 
+**Our Pitch Video**
+
+
+
 **Architecture of proposed solution**
 
 https://photos.app.goo.gl/vwm6AguPoAmRy9LG6
