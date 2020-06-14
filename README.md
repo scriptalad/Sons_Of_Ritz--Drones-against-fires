@@ -21,7 +21,9 @@ To run the Python scripts, you will need to install python and the 'Requests' mo
 1. Install the latest version of python from https://www.python.org/downloads/
 2. Use the shortcut 'Windows-R' and type in 'cmd' then press enter to open the command prompt
 3. type in the command 'pip install requests' into the command prompt and wait for the 'Request' module to install
-4. right click the python file and select 'edit with idle' then press F5 to save and run the program
+4. download the python scripts from the 'Python Scripts' folder in our github
+5. right click the python file and select 'edit with idle' then press F5 to save and run the program
+6. Repeat (5) for any other python files you wish to run
 
 To run the IBM Visual Recognition,you will need to go to https://dataplatform.cloud.ibm.com/home?context=wdp
 1. Create a new project by clicking "New project*
