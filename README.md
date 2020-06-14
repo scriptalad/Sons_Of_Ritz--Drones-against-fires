@@ -28,6 +28,7 @@ To run the IBM Visual Recognition,you will need to go to https://dataplatform.cl
 
 1. Python
 2. IBM Visual Recognition
+3. Waze Navigation software
 
 **Architecture of proposed solution
 
