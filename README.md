@@ -29,6 +29,10 @@ To run the IBM Visual Recognition,you will need to go to https://dataplatform.cl
 1. Python
 2. IBM Visual Recognition
 
+**Architecture of proposed solution
+
+https://photos.app.goo.gl/vwm6AguPoAmRy9LG6
+	
 **detailed solution**
 
 https://docs.google.com/document/d/1XJRgSJeuc-ZwSZ1oMwl2mwZv7-DtSCtfE-PS7lufmJU/edit?ts=5ee4e98b
