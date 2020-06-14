@@ -28,7 +28,7 @@ To run the Python scripts, you will need to install python and the 'Requests' mo
 To run the IBM Visual Recognition,you will need to go to https://dataplatform.cloud.ibm.com/home?context=wdp
 1. Create a new project by clicking "New project*
 2. "Create Project from existing files
-3. Compile the files from Visual Recognition (assets, assettypes and project.json) into a zip file and drag and drop them into the page
+3. Compile the files from 'IBM Visual Recognition' folder (assets, assettypes and project.json) into a zip file and drag and drop them into the page
 4. Name the project and project description. Once done, hit create !
 5. Go to settings and look for "Associated Service"
 6. Click add service --> Watson -- Visual Recognition
