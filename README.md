@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=bpyzPLfdn3Q&feature=youtu.be
 
 https://photos.app.goo.gl/vwm6AguPoAmRy9LG6
 
-**detailed solution**
+**Detailed solution**
 
 https://docs.google.com/document/d/1XJRgSJeuc-ZwSZ1oMwl2mwZv7-DtSCtfE-PS7lufmJU/edit?ts=5ee4e98b
 
@@ -42,7 +42,7 @@ To run the IBM Visual Recognition,you will need to go to https://dataplatform.cl
 6. Click add service --> Watson -- Visual Recognition
 7. Hit Test and now you can drag and drog any image for the trained AI to detect if there are any of the 3 labels (Fires, Smoke or Humans) in the picture.
 
-**what our team used to build our solution**
+**What our team used to build our solution**
 
 1. Python
 2. IBM Visual Recognition
